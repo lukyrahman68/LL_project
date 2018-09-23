@@ -16,10 +16,10 @@
         </p>
     </div>
     <div class="right_item">
-        <video width="500" height="350" controls>
-            <source src="video/Video.mp4" type="video/mp4">
-            Sorry, your browser doesn't support the video element.
-        </video>
+            <video width="500" height="350" controls>
+                <source src="video/Video.mp4" type="video/mp4">
+                Sorry, your browser doesn't support the video element.
+            </video>
     </div>
 </div>
 <div class="container cont_home_img SourceSansPro_Regular">

@@ -33,7 +33,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-secondary text-uppercase" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <a class="navbar-brand js-scroll-trigger" href="home">
           <div class="logo">
           </div>
         </a>

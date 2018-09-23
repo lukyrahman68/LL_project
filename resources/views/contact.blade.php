@@ -4,7 +4,7 @@
     <!-- Header -->
     <header class="masthead bg-primary text-white text-center img_header">
         <div class="container" style="position:relative;">
-        <div style="position:absolute;bottom:-80px;right:0;border: solid">
+        <div style="position:absolute;bottom:-80px;right:0;padding:1em;">
             <h3>Contact Us</h3>
         </div>
         </div>
